@@ -83,7 +83,7 @@ All APIs can be tested using the provided Postman collection. The system focuses
 ## Resources
 
 - [Postman Collection](./postman_collection.json)
-- ![Eureka Dashboard](./docs/screenshots/eureka_dashboard.png)
+- ![Eureka Dashboard](![Image](https://github.com/user-attachments/assets/6f23afcf-bde1-462f-9901-b81c970fff68))
 
 ## Project Structure
 
