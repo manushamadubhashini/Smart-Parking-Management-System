@@ -46,7 +46,7 @@ This system follows a microservices architecture built primarily with Spring Boo
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone git@github.com:manushamadubhashini/Smart-Parking-Management-System.git
 cd smart-parking-management-system
 ```
 
