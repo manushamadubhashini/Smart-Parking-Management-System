@@ -84,8 +84,7 @@ All APIs can be tested using the provided Postman collection. The system focuses
 
 - ([postman.json](https://github.com/user-attachments/files/20921451/postman.json))
 
-  
-![Image](https://github.com/user-attachments/assets/6f23afcf-bde1-462f-9901-b81c970fff68)
+- [Eureka Dashboard](https://github.com/manushamadubhashini/Smart-Parking-Management-System/blob/main/docs/screenShots/Screenshot%20(1115).png)
 
 ## Project Structure
 
